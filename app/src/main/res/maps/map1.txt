@@ -1,0 +1,20 @@
+# Bana 1 för Money Run
+# Rader som startar med '#' är kommentarer
+# Tilesn är :
+#   Space   Tom tile
+#   A..Z    Tiles A till Z
+#   o       Dollar
+#   *       Nyckel
+#   1       Svamp
+#   2       Raket
+BF                                                                   EB
+AD                      oooo                             EBBBF       CA
+AD                      oooo             I              2CAAADooI    CA
+AD                      IIII              2   EF         CAAADooo    CA
+AD                       oo                   CD       2 CAAADIoo    CA
+AD                  2    oo 2         I       CD     2   CAAADooo    CA
+AD           2  EF      IIII                2 CD   2     CAAADooo    CA
+AD              CD   1  1  1                  CD 2       CAAADooI    CA
+AD            EBGHBBBBBBBBBBBBBBBBBF        o CD         CAAADoooooooCA
+AD    1 h  o 1CAAAAAAAAAAAAAAAAAAAAD   1   o oCD 111111 *CAAADoooooooCA
+AHBBBBBBBBBBBBGAAAAAAAAAAAAAAAAAAAAHBBBBBBBBBBGHBBBBBBBBBGAAAHBBBBBBBGA

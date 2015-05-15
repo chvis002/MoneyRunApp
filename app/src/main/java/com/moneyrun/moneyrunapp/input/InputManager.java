@@ -1,6 +1,6 @@
 package com.moneyrun.moneyrunapp.input;
 
-//TODO Make it work with android instead of java awt
+//TODO Make KeyListener and KeyEvent work with android instead of java awt
 import android.text.method.KeyListener;
 import android.view.KeyEvent;
 

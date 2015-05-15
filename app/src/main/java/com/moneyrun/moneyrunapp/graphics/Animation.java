@@ -1,8 +1,9 @@
 package com.moneyrun.moneyrunapp.graphics;
 
-//TODO fix image issues animation class
 //TODO check what android Animation class is
-import java.awt.Image;
+
+import android.media.Image;
+
 import java.util.ArrayList;
 
 /**

@@ -1,7 +1,8 @@
 package com.moneyrun.moneyrunapp.graphics;
 
-//TODO Fix image issues Sprite class
-import java.awt.Image;
+
+import android.media.Image;
+
 import com.moneyrun.*;
 /**
  * Ett objekt med en animation som kan röra på sig
