@@ -2,6 +2,7 @@ package com.moneyrun.moneyrunapp.sprites;
 
 import com.moneyrun.moneyrunapp.graphics.Animation;
 
+
 /**
  * En creature som är en fiende och som flyger
  * @author Victor Söderberg & Christopher Visser
@@ -20,12 +21,13 @@ public class Rocket extends Creature {
         super(left, right, deadLeft, deadRight);
     }
 
+
     /**
      * Hämtar maxhastigheten
      * @return maxhastigheten 0.2f
      */
     public float getMaxSpeed() {
-        return 0.2f;
+        return 0.2f; //todo change!
     }
 
     /**

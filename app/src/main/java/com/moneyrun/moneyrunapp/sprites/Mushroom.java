@@ -26,7 +26,7 @@ public class Mushroom extends Creature {
      * @return maxhastigheten
      */
     public float getMaxSpeed() {
-        return 0.05f;
+        return 0.05f; //todo change!
     }
 
 }
